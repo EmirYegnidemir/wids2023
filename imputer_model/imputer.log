@@ -1,0 +1,961 @@
+2023-02-17 19:54:11,594 [INFO]  
+========== start: fit model
+2023-02-17 19:54:11,594 [WARNING]  Already bound, ignoring bind()
+2023-02-17 19:54:40,178 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5556.71 samples/sec	cross-entropy=0.103993	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-17 19:55:08,725 [INFO]  Epoch[0] Train-cross-entropy=0.069920
+2023-02-17 19:55:08,726 [INFO]  Epoch[0] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-17 19:55:08,726 [INFO]  Epoch[0] Time cost=57.127
+2023-02-17 19:55:08,733 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-17 19:55:12,124 [INFO]  Epoch[0] Validation-cross-entropy=0.030086
+2023-02-17 19:55:12,125 [INFO]  Epoch[0] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-17 19:55:41,596 [INFO]  Epoch[1] Batch [0-9917]	Speed: 5384.79 samples/sec	cross-entropy=0.023597	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-17 19:55:55,391 [INFO]  
+========== done (103.79835081100464 s) fit model
+2023-02-18 01:10:42,403 [INFO]  
+========== start: fit model
+2023-02-18 01:10:42,403 [INFO]  
+========== start: fit model
+2023-02-18 01:10:42,403 [INFO]  
+========== start: fit model
+2023-02-18 01:10:42,403 [INFO]  
+========== start: fit model
+2023-02-18 01:10:42,403 [INFO]  
+========== start: fit model
+2023-02-18 01:10:42,409 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:10:42,409 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:10:42,409 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:10:42,409 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:10:42,409 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:10:55,514 [INFO]  
+========== done (13.110733985900879 s) fit model
+2023-02-18 01:10:55,514 [INFO]  
+========== done (13.110733985900879 s) fit model
+2023-02-18 01:10:55,514 [INFO]  
+========== done (13.110733985900879 s) fit model
+2023-02-18 01:10:55,514 [INFO]  
+========== done (13.110733985900879 s) fit model
+2023-02-18 01:10:55,514 [INFO]  
+========== done (13.110733985900879 s) fit model
+2023-02-18 01:11:52,607 [INFO]  
+========== start: fit model
+2023-02-18 01:11:52,607 [INFO]  
+========== start: fit model
+2023-02-18 01:11:52,607 [INFO]  
+========== start: fit model
+2023-02-18 01:11:52,607 [INFO]  
+========== start: fit model
+2023-02-18 01:11:52,607 [INFO]  
+========== start: fit model
+2023-02-18 01:11:52,607 [INFO]  
+========== start: fit model
+2023-02-18 01:11:52,608 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:11:52,608 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:11:52,608 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:11:52,608 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:11:52,608 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:11:52,608 [WARNING]  Already bound, ignoring bind()
+2023-02-18 01:12:24,335 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5002.30 samples/sec	cross-entropy=0.107240	ccsm30-accuracy=0.000000
+2023-02-18 01:12:24,335 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5002.30 samples/sec	cross-entropy=0.107240	ccsm30-accuracy=0.000000
+2023-02-18 01:12:24,335 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5002.30 samples/sec	cross-entropy=0.107240	ccsm30-accuracy=0.000000
+2023-02-18 01:12:24,335 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5002.30 samples/sec	cross-entropy=0.107240	ccsm30-accuracy=0.000000
+2023-02-18 01:12:24,335 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5002.30 samples/sec	cross-entropy=0.107240	ccsm30-accuracy=0.000000
+2023-02-18 01:12:24,335 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5002.30 samples/sec	cross-entropy=0.107240	ccsm30-accuracy=0.000000
+2023-02-18 01:12:55,232 [INFO]  Epoch[0] Train-cross-entropy=0.073747
+2023-02-18 01:12:55,232 [INFO]  Epoch[0] Train-cross-entropy=0.073747
+2023-02-18 01:12:55,232 [INFO]  Epoch[0] Train-cross-entropy=0.073747
+2023-02-18 01:12:55,232 [INFO]  Epoch[0] Train-cross-entropy=0.073747
+2023-02-18 01:12:55,232 [INFO]  Epoch[0] Train-cross-entropy=0.073747
+2023-02-18 01:12:55,232 [INFO]  Epoch[0] Train-cross-entropy=0.073747
+2023-02-18 01:12:55,233 [INFO]  Epoch[0] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:12:55,233 [INFO]  Epoch[0] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:12:55,233 [INFO]  Epoch[0] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:12:55,233 [INFO]  Epoch[0] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:12:55,233 [INFO]  Epoch[0] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:12:55,233 [INFO]  Epoch[0] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:12:55,235 [INFO]  Epoch[0] Time cost=62.625
+2023-02-18 01:12:55,235 [INFO]  Epoch[0] Time cost=62.625
+2023-02-18 01:12:55,235 [INFO]  Epoch[0] Time cost=62.625
+2023-02-18 01:12:55,235 [INFO]  Epoch[0] Time cost=62.625
+2023-02-18 01:12:55,235 [INFO]  Epoch[0] Time cost=62.625
+2023-02-18 01:12:55,235 [INFO]  Epoch[0] Time cost=62.625
+2023-02-18 01:12:55,248 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-18 01:12:55,248 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-18 01:12:55,248 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-18 01:12:55,248 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-18 01:12:55,248 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-18 01:12:55,248 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-18 01:13:00,259 [INFO]  Epoch[0] Validation-cross-entropy=0.016216
+2023-02-18 01:13:00,259 [INFO]  Epoch[0] Validation-cross-entropy=0.016216
+2023-02-18 01:13:00,259 [INFO]  Epoch[0] Validation-cross-entropy=0.016216
+2023-02-18 01:13:00,259 [INFO]  Epoch[0] Validation-cross-entropy=0.016216
+2023-02-18 01:13:00,259 [INFO]  Epoch[0] Validation-cross-entropy=0.016216
+2023-02-18 01:13:00,259 [INFO]  Epoch[0] Validation-cross-entropy=0.016216
+2023-02-18 01:13:00,260 [INFO]  Epoch[0] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:13:00,260 [INFO]  Epoch[0] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:13:00,260 [INFO]  Epoch[0] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:13:00,260 [INFO]  Epoch[0] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:13:00,260 [INFO]  Epoch[0] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:13:00,260 [INFO]  Epoch[0] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:13:44,669 [INFO]  Epoch[1] Batch [0-9917]	Speed: 3573.38 samples/sec	cross-entropy=0.024167	ccsm30-accuracy=0.000000
+2023-02-18 01:13:44,669 [INFO]  Epoch[1] Batch [0-9917]	Speed: 3573.38 samples/sec	cross-entropy=0.024167	ccsm30-accuracy=0.000000
+2023-02-18 01:13:44,669 [INFO]  Epoch[1] Batch [0-9917]	Speed: 3573.38 samples/sec	cross-entropy=0.024167	ccsm30-accuracy=0.000000
+2023-02-18 01:13:44,669 [INFO]  Epoch[1] Batch [0-9917]	Speed: 3573.38 samples/sec	cross-entropy=0.024167	ccsm30-accuracy=0.000000
+2023-02-18 01:13:44,669 [INFO]  Epoch[1] Batch [0-9917]	Speed: 3573.38 samples/sec	cross-entropy=0.024167	ccsm30-accuracy=0.000000
+2023-02-18 01:13:44,669 [INFO]  Epoch[1] Batch [0-9917]	Speed: 3573.38 samples/sec	cross-entropy=0.024167	ccsm30-accuracy=0.000000
+2023-02-18 01:14:27,680 [INFO]  Epoch[1] Train-cross-entropy=0.021519
+2023-02-18 01:14:27,680 [INFO]  Epoch[1] Train-cross-entropy=0.021519
+2023-02-18 01:14:27,680 [INFO]  Epoch[1] Train-cross-entropy=0.021519
+2023-02-18 01:14:27,680 [INFO]  Epoch[1] Train-cross-entropy=0.021519
+2023-02-18 01:14:27,680 [INFO]  Epoch[1] Train-cross-entropy=0.021519
+2023-02-18 01:14:27,680 [INFO]  Epoch[1] Train-cross-entropy=0.021519
+2023-02-18 01:14:27,683 [INFO]  Epoch[1] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:14:27,683 [INFO]  Epoch[1] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:14:27,683 [INFO]  Epoch[1] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:14:27,683 [INFO]  Epoch[1] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:14:27,683 [INFO]  Epoch[1] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:14:27,683 [INFO]  Epoch[1] Train-ccsm30-accuracy=0.000000
+2023-02-18 01:14:27,684 [INFO]  Epoch[1] Time cost=87.423
+2023-02-18 01:14:27,684 [INFO]  Epoch[1] Time cost=87.423
+2023-02-18 01:14:27,684 [INFO]  Epoch[1] Time cost=87.423
+2023-02-18 01:14:27,684 [INFO]  Epoch[1] Time cost=87.423
+2023-02-18 01:14:27,684 [INFO]  Epoch[1] Time cost=87.423
+2023-02-18 01:14:27,684 [INFO]  Epoch[1] Time cost=87.423
+2023-02-18 01:14:27,688 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-18 01:14:27,688 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-18 01:14:27,688 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-18 01:14:27,688 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-18 01:14:27,688 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-18 01:14:27,688 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-18 01:14:32,451 [INFO]  Epoch[1] Validation-cross-entropy=0.011963
+2023-02-18 01:14:32,451 [INFO]  Epoch[1] Validation-cross-entropy=0.011963
+2023-02-18 01:14:32,451 [INFO]  Epoch[1] Validation-cross-entropy=0.011963
+2023-02-18 01:14:32,451 [INFO]  Epoch[1] Validation-cross-entropy=0.011963
+2023-02-18 01:14:32,451 [INFO]  Epoch[1] Validation-cross-entropy=0.011963
+2023-02-18 01:14:32,451 [INFO]  Epoch[1] Validation-cross-entropy=0.011963
+2023-02-18 01:14:32,453 [INFO]  Epoch[1] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:14:32,453 [INFO]  Epoch[1] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:14:32,453 [INFO]  Epoch[1] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:14:32,453 [INFO]  Epoch[1] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:14:32,453 [INFO]  Epoch[1] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:14:32,453 [INFO]  Epoch[1] Validation-ccsm30-accuracy=0.000000
+2023-02-18 01:14:41,612 [INFO]  
+========== done (169.00591444969177 s) fit model
+2023-02-18 01:14:41,612 [INFO]  
+========== done (169.00591444969177 s) fit model
+2023-02-18 01:14:41,612 [INFO]  
+========== done (169.00591444969177 s) fit model
+2023-02-18 01:14:41,612 [INFO]  
+========== done (169.00591444969177 s) fit model
+2023-02-18 01:14:41,612 [INFO]  
+========== done (169.00591444969177 s) fit model
+2023-02-18 01:14:41,612 [INFO]  
+========== done (169.00591444969177 s) fit model
+2023-02-19 14:23:21,387 [INFO]  
+========== start: fit model
+2023-02-19 14:23:21,389 [WARNING]  Already bound, ignoring bind()
+2023-02-19 14:23:51,315 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5303.15 samples/sec	cross-entropy=0.106529	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:24:20,429 [INFO]  Epoch[0] Train-cross-entropy=0.072282
+2023-02-19 14:24:20,429 [INFO]  Epoch[0] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:24:20,430 [INFO]  Epoch[0] Time cost=59.040
+2023-02-19 14:24:20,434 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-19 14:24:23,774 [INFO]  Epoch[0] Validation-cross-entropy=0.017902
+2023-02-19 14:24:23,774 [INFO]  Epoch[0] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:24:52,071 [INFO]  Epoch[1] Batch [0-9917]	Speed: 5608.26 samples/sec	cross-entropy=0.026787	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:25:20,333 [INFO]  Epoch[1] Train-cross-entropy=0.022792
+2023-02-19 14:25:20,334 [INFO]  Epoch[1] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:25:20,335 [INFO]  Epoch[1] Time cost=56.559
+2023-02-19 14:25:20,338 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-19 14:25:23,728 [INFO]  Epoch[1] Validation-cross-entropy=0.014544
+2023-02-19 14:25:23,729 [INFO]  Epoch[1] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:25:52,757 [INFO]  Epoch[2] Batch [0-9917]	Speed: 5467.33 samples/sec	cross-entropy=0.014867	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:26:20,667 [INFO]  Epoch[2] Train-cross-entropy=0.013395
+2023-02-19 14:26:20,667 [INFO]  Epoch[2] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:26:20,668 [INFO]  Epoch[2] Time cost=56.938
+2023-02-19 14:26:20,671 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2023-02-19 14:26:23,930 [INFO]  Epoch[2] Validation-cross-entropy=0.005592
+2023-02-19 14:26:23,931 [INFO]  Epoch[2] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:26:51,717 [INFO]  Epoch[3] Batch [0-9917]	Speed: 5711.38 samples/sec	cross-entropy=0.010675	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:27:19,913 [INFO]  Epoch[3] Train-cross-entropy=0.009876
+2023-02-19 14:27:19,914 [INFO]  Epoch[3] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:27:19,915 [INFO]  Epoch[3] Time cost=55.984
+2023-02-19 14:27:19,919 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2023-02-19 14:27:23,358 [INFO]  Epoch[3] Validation-cross-entropy=0.002521
+2023-02-19 14:27:23,359 [INFO]  Epoch[3] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:27:52,555 [INFO]  Epoch[4] Batch [0-9917]	Speed: 5435.50 samples/sec	cross-entropy=0.008572	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:28:21,065 [INFO]  Epoch[4] Train-cross-entropy=0.008474
+2023-02-19 14:28:21,066 [INFO]  Epoch[4] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:28:21,066 [INFO]  Epoch[4] Time cost=57.706
+2023-02-19 14:28:21,071 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2023-02-19 14:28:24,412 [INFO]  Epoch[4] Validation-cross-entropy=0.001809
+2023-02-19 14:28:24,413 [INFO]  Epoch[4] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:28:53,056 [INFO]  Epoch[5] Batch [0-9917]	Speed: 5540.58 samples/sec	cross-entropy=0.007682	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:29:21,951 [INFO]  Epoch[5] Train-cross-entropy=0.007524
+2023-02-19 14:29:21,951 [INFO]  Epoch[5] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:29:21,952 [INFO]  Epoch[5] Time cost=57.537
+2023-02-19 14:29:21,955 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2023-02-19 14:29:25,426 [INFO]  Epoch[5] Validation-cross-entropy=0.002196
+2023-02-19 14:29:25,428 [INFO]  Epoch[5] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:29:53,545 [INFO]  Epoch[6] Batch [0-9917]	Speed: 5644.12 samples/sec	cross-entropy=0.007557	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:30:22,486 [INFO]  Epoch[6] Train-cross-entropy=0.007266
+2023-02-19 14:30:22,487 [INFO]  Epoch[6] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:30:22,487 [INFO]  Epoch[6] Time cost=57.059
+2023-02-19 14:30:22,491 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2023-02-19 14:30:25,774 [INFO]  Epoch[6] Validation-cross-entropy=0.001639
+2023-02-19 14:30:25,775 [INFO]  Epoch[6] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:30:54,408 [INFO]  Epoch[7] Batch [0-9917]	Speed: 5542.35 samples/sec	cross-entropy=0.006756	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:31:23,515 [INFO]  Epoch[7] Train-cross-entropy=0.006736
+2023-02-19 14:31:23,516 [INFO]  Epoch[7] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:31:23,517 [INFO]  Epoch[7] Time cost=57.742
+2023-02-19 14:31:23,520 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2023-02-19 14:31:26,853 [INFO]  Epoch[7] Validation-cross-entropy=0.001017
+2023-02-19 14:31:26,854 [INFO]  Epoch[7] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:31:56,425 [INFO]  Epoch[8] Batch [0-9917]	Speed: 5366.52 samples/sec	cross-entropy=0.006810	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:32:25,318 [INFO]  Epoch[8] Train-cross-entropy=0.006723
+2023-02-19 14:32:25,319 [INFO]  Epoch[8] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:32:25,320 [INFO]  Epoch[8] Time cost=58.465
+2023-02-19 14:32:25,323 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2023-02-19 14:32:28,626 [INFO]  Epoch[8] Validation-cross-entropy=0.001553
+2023-02-19 14:32:28,627 [INFO]  Epoch[8] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:32:57,326 [INFO]  Epoch[9] Batch [0-9917]	Speed: 5529.51 samples/sec	cross-entropy=0.006466	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:33:25,884 [INFO]  Epoch[9] Train-cross-entropy=0.006577
+2023-02-19 14:33:25,884 [INFO]  Epoch[9] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:33:25,885 [INFO]  Epoch[9] Time cost=57.257
+2023-02-19 14:33:25,888 [INFO]  Saved checkpoint to "imputer_model\model-0009.params"
+2023-02-19 14:33:29,184 [INFO]  Epoch[9] Validation-cross-entropy=0.000937
+2023-02-19 14:33:29,185 [INFO]  Epoch[9] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:33:57,123 [INFO]  Epoch[10] Batch [0-9917]	Speed: 5680.14 samples/sec	cross-entropy=0.007131	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:34:25,019 [INFO]  Epoch[10] Train-cross-entropy=0.006588
+2023-02-19 14:34:25,020 [INFO]  Epoch[10] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:34:25,020 [INFO]  Epoch[10] Time cost=55.835
+2023-02-19 14:34:25,023 [INFO]  Saved checkpoint to "imputer_model\model-0010.params"
+2023-02-19 14:34:28,281 [INFO]  Epoch[10] Validation-cross-entropy=0.001012
+2023-02-19 14:34:28,282 [INFO]  Epoch[10] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:34:56,044 [INFO]  Epoch[11] Batch [0-9917]	Speed: 5716.37 samples/sec	cross-entropy=0.006763	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:35:23,716 [INFO]  Epoch[11] Train-cross-entropy=0.006334
+2023-02-19 14:35:23,717 [INFO]  Epoch[11] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:35:23,718 [INFO]  Epoch[11] Time cost=55.436
+2023-02-19 14:35:23,721 [INFO]  Saved checkpoint to "imputer_model\model-0011.params"
+2023-02-19 14:35:26,952 [INFO]  Epoch[11] Validation-cross-entropy=0.002466
+2023-02-19 14:35:26,953 [INFO]  Epoch[11] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:35:54,942 [INFO]  Epoch[12] Batch [0-9917]	Speed: 5669.81 samples/sec	cross-entropy=0.005959	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:36:22,945 [INFO]  Epoch[12] Train-cross-entropy=0.006266
+2023-02-19 14:36:22,946 [INFO]  Epoch[12] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:36:22,946 [INFO]  Epoch[12] Time cost=55.994
+2023-02-19 14:36:22,950 [INFO]  Saved checkpoint to "imputer_model\model-0012.params"
+2023-02-19 14:36:26,359 [INFO]  Epoch[12] Validation-cross-entropy=0.002318
+2023-02-19 14:36:26,360 [INFO]  Epoch[12] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:36:54,278 [INFO]  Epoch[13] Batch [0-9917]	Speed: 5684.24 samples/sec	cross-entropy=0.006178	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:37:22,526 [INFO]  Epoch[13] Train-cross-entropy=0.006186
+2023-02-19 14:37:22,527 [INFO]  Epoch[13] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:37:22,528 [INFO]  Epoch[13] Time cost=56.169
+2023-02-19 14:37:22,531 [INFO]  Saved checkpoint to "imputer_model\model-0013.params"
+2023-02-19 14:37:25,853 [INFO]  Epoch[13] Validation-cross-entropy=0.001872
+2023-02-19 14:37:25,854 [INFO]  Epoch[13] Validation-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:37:54,334 [INFO]  Epoch[14] Batch [0-9917]	Speed: 5572.28 samples/sec	cross-entropy=0.007072	nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:38:22,242 [INFO]  Epoch[14] Train-cross-entropy=0.006396
+2023-02-19 14:38:22,243 [INFO]  Epoch[14] Train-nmme0-tmp2m-34w__ccsm30-accuracy=0.000000
+2023-02-19 14:38:22,243 [INFO]  Epoch[14] Time cost=56.388
+2023-02-19 14:38:22,247 [INFO]  Saved checkpoint to "imputer_model\model-0014.params"
+2023-02-19 14:38:25,506 [INFO]  No improvement detected for 5 epochs compared to 0.0009368374658333448 last error obtained: 0.007295944232188551, stopping here
+2023-02-19 14:38:25,507 [INFO]  
+========== done (904.1198787689209 s) fit model
+2023-02-19 14:38:54,624 [INFO]  
+========== start: fit model
+2023-02-19 14:38:54,624 [WARNING]  Already bound, ignoring bind()
+2023-02-19 14:39:23,164 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5560.58 samples/sec	cross-entropy=0.095051	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:39:51,168 [INFO]  Epoch[0] Train-cross-entropy=0.064631
+2023-02-19 14:39:51,168 [INFO]  Epoch[0] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:39:51,168 [INFO]  Epoch[0] Time cost=56.543
+2023-02-19 14:39:51,170 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-19 14:39:54,403 [INFO]  Epoch[0] Validation-cross-entropy=0.021723
+2023-02-19 14:39:54,403 [INFO]  Epoch[0] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:40:22,498 [INFO]  Epoch[1] Batch [0-9917]	Speed: 5648.28 samples/sec	cross-entropy=0.024758	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:40:50,630 [INFO]  Epoch[1] Train-cross-entropy=0.021483
+2023-02-19 14:40:50,630 [INFO]  Epoch[1] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:40:50,630 [INFO]  Epoch[1] Time cost=56.227
+2023-02-19 14:40:50,632 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-19 14:40:53,933 [INFO]  Epoch[1] Validation-cross-entropy=0.015353
+2023-02-19 14:40:53,933 [INFO]  Epoch[1] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:41:22,266 [INFO]  Epoch[2] Batch [0-9917]	Speed: 5600.85 samples/sec	cross-entropy=0.013744	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:41:50,571 [INFO]  Epoch[2] Train-cross-entropy=0.012791
+2023-02-19 14:41:50,571 [INFO]  Epoch[2] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:41:50,572 [INFO]  Epoch[2] Time cost=56.639
+2023-02-19 14:41:50,573 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2023-02-19 14:41:53,890 [INFO]  Epoch[2] Validation-cross-entropy=0.005303
+2023-02-19 14:41:53,890 [INFO]  Epoch[2] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:42:22,091 [INFO]  Epoch[3] Batch [0-9917]	Speed: 5626.73 samples/sec	cross-entropy=0.010413	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:42:50,144 [INFO]  Epoch[3] Train-cross-entropy=0.009948
+2023-02-19 14:42:50,144 [INFO]  Epoch[3] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:42:50,144 [INFO]  Epoch[3] Time cost=56.254
+2023-02-19 14:42:50,146 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2023-02-19 14:42:53,484 [INFO]  Epoch[3] Validation-cross-entropy=0.003910
+2023-02-19 14:42:53,484 [INFO]  Epoch[3] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:43:22,128 [INFO]  Epoch[4] Batch [0-9917]	Speed: 5540.03 samples/sec	cross-entropy=0.008992	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:43:51,314 [INFO]  Epoch[4] Train-cross-entropy=0.008670
+2023-02-19 14:43:51,314 [INFO]  Epoch[4] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:43:51,314 [INFO]  Epoch[4] Time cost=57.830
+2023-02-19 14:43:51,316 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2023-02-19 14:43:54,751 [INFO]  Epoch[4] Validation-cross-entropy=0.007650
+2023-02-19 14:43:54,751 [INFO]  Epoch[4] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:44:24,220 [INFO]  Epoch[5] Batch [0-9917]	Speed: 5384.91 samples/sec	cross-entropy=0.007793	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:44:52,820 [INFO]  Epoch[5] Train-cross-entropy=0.007718
+2023-02-19 14:44:52,820 [INFO]  Epoch[5] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:44:52,820 [INFO]  Epoch[5] Time cost=58.069
+2023-02-19 14:44:52,822 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2023-02-19 14:44:56,149 [INFO]  Epoch[5] Validation-cross-entropy=0.008499
+2023-02-19 14:44:56,149 [INFO]  Epoch[5] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:45:24,643 [INFO]  Epoch[6] Batch [0-9917]	Speed: 5569.23 samples/sec	cross-entropy=0.007363	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:45:53,309 [INFO]  Epoch[6] Train-cross-entropy=0.007345
+2023-02-19 14:45:53,310 [INFO]  Epoch[6] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:45:53,310 [INFO]  Epoch[6] Time cost=57.161
+2023-02-19 14:45:53,311 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2023-02-19 14:45:56,622 [INFO]  Epoch[6] Validation-cross-entropy=0.004058
+2023-02-19 14:45:56,623 [INFO]  Epoch[6] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:46:24,732 [INFO]  Epoch[7] Batch [0-9917]	Speed: 5645.35 samples/sec	cross-entropy=0.007401	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:46:53,306 [INFO]  Epoch[7] Train-cross-entropy=0.007559
+2023-02-19 14:46:53,306 [INFO]  Epoch[7] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:46:53,306 [INFO]  Epoch[7] Time cost=56.683
+2023-02-19 14:46:53,308 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2023-02-19 14:46:56,694 [INFO]  Epoch[7] Validation-cross-entropy=0.008344
+2023-02-19 14:46:56,694 [INFO]  Epoch[7] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:47:25,466 [INFO]  Epoch[8] Batch [0-9917]	Speed: 5515.56 samples/sec	cross-entropy=0.007205	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:47:54,553 [INFO]  Epoch[8] Train-cross-entropy=0.006947
+2023-02-19 14:47:54,553 [INFO]  Epoch[8] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:47:54,553 [INFO]  Epoch[8] Time cost=57.859
+2023-02-19 14:47:54,555 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2023-02-19 14:47:57,875 [INFO]  Epoch[8] Validation-cross-entropy=0.002156
+2023-02-19 14:47:57,875 [INFO]  Epoch[8] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:48:26,453 [INFO]  Epoch[9] Batch [0-9917]	Speed: 5552.63 samples/sec	cross-entropy=0.006928	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:48:54,327 [INFO]  Epoch[9] Train-cross-entropy=0.006762
+2023-02-19 14:48:54,327 [INFO]  Epoch[9] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:48:54,327 [INFO]  Epoch[9] Time cost=56.452
+2023-02-19 14:48:54,330 [INFO]  Saved checkpoint to "imputer_model\model-0009.params"
+2023-02-19 14:48:57,573 [INFO]  Epoch[9] Validation-cross-entropy=0.003750
+2023-02-19 14:48:57,574 [INFO]  Epoch[9] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:49:25,453 [INFO]  Epoch[10] Batch [0-9917]	Speed: 5691.86 samples/sec	cross-entropy=0.006894	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:49:53,383 [INFO]  Epoch[10] Train-cross-entropy=0.006797
+2023-02-19 14:49:53,383 [INFO]  Epoch[10] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:49:53,383 [INFO]  Epoch[10] Time cost=55.809
+2023-02-19 14:49:53,385 [INFO]  Saved checkpoint to "imputer_model\model-0010.params"
+2023-02-19 14:49:56,683 [INFO]  Epoch[10] Validation-cross-entropy=0.001402
+2023-02-19 14:49:56,683 [INFO]  Epoch[10] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:50:24,626 [INFO]  Epoch[11] Batch [0-9917]	Speed: 5678.98 samples/sec	cross-entropy=0.006413	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:50:52,462 [INFO]  Epoch[11] Train-cross-entropy=0.006501
+2023-02-19 14:50:52,462 [INFO]  Epoch[11] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:50:52,462 [INFO]  Epoch[11] Time cost=55.779
+2023-02-19 14:50:52,464 [INFO]  Saved checkpoint to "imputer_model\model-0011.params"
+2023-02-19 14:50:55,747 [INFO]  Epoch[11] Validation-cross-entropy=0.001793
+2023-02-19 14:50:55,747 [INFO]  Epoch[11] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:51:23,678 [INFO]  Epoch[12] Batch [0-9917]	Speed: 5681.54 samples/sec	cross-entropy=0.006457	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:51:52,260 [INFO]  Epoch[12] Train-cross-entropy=0.006301
+2023-02-19 14:51:52,260 [INFO]  Epoch[12] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:51:52,260 [INFO]  Epoch[12] Time cost=56.513
+2023-02-19 14:51:52,262 [INFO]  Saved checkpoint to "imputer_model\model-0012.params"
+2023-02-19 14:51:55,496 [INFO]  Epoch[12] Validation-cross-entropy=0.000666
+2023-02-19 14:51:55,496 [INFO]  Epoch[12] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:52:23,412 [INFO]  Epoch[13] Batch [0-9917]	Speed: 5684.54 samples/sec	cross-entropy=0.006208	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:52:53,578 [INFO]  Epoch[13] Train-cross-entropy=0.006410
+2023-02-19 14:52:53,578 [INFO]  Epoch[13] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:52:53,578 [INFO]  Epoch[13] Time cost=58.082
+2023-02-19 14:52:53,580 [INFO]  Saved checkpoint to "imputer_model\model-0013.params"
+2023-02-19 14:52:56,883 [INFO]  Epoch[13] Validation-cross-entropy=0.000969
+2023-02-19 14:52:56,883 [INFO]  Epoch[13] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:53:25,722 [INFO]  Epoch[14] Batch [0-9917]	Speed: 5502.59 samples/sec	cross-entropy=0.005982	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:53:54,378 [INFO]  Epoch[14] Train-cross-entropy=0.006129
+2023-02-19 14:53:54,379 [INFO]  Epoch[14] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:53:54,379 [INFO]  Epoch[14] Time cost=57.496
+2023-02-19 14:53:54,381 [INFO]  Saved checkpoint to "imputer_model\model-0014.params"
+2023-02-19 14:53:57,727 [INFO]  Epoch[14] Validation-cross-entropy=0.000612
+2023-02-19 14:53:57,727 [INFO]  Epoch[14] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:54:25,740 [INFO]  Epoch[15] Batch [0-9917]	Speed: 5664.88 samples/sec	cross-entropy=0.006134	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:54:54,402 [INFO]  Epoch[15] Train-cross-entropy=0.006290
+2023-02-19 14:54:54,402 [INFO]  Epoch[15] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:54:54,402 [INFO]  Epoch[15] Time cost=56.675
+2023-02-19 14:54:54,404 [INFO]  Saved checkpoint to "imputer_model\model-0015.params"
+2023-02-19 14:54:57,836 [INFO]  Epoch[15] Validation-cross-entropy=0.001166
+2023-02-19 14:54:57,836 [INFO]  Epoch[15] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:55:26,357 [INFO]  Epoch[16] Batch [0-9917]	Speed: 5563.81 samples/sec	cross-entropy=0.006018	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:55:54,605 [INFO]  Epoch[16] Train-cross-entropy=0.006106
+2023-02-19 14:55:54,605 [INFO]  Epoch[16] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:55:54,605 [INFO]  Epoch[16] Time cost=56.769
+2023-02-19 14:55:54,608 [INFO]  Saved checkpoint to "imputer_model\model-0016.params"
+2023-02-19 14:55:57,862 [INFO]  Epoch[16] Validation-cross-entropy=0.013105
+2023-02-19 14:55:57,862 [INFO]  Epoch[16] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:56:25,861 [INFO]  Epoch[17] Batch [0-9917]	Speed: 5667.61 samples/sec	cross-entropy=0.006470	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:56:54,246 [INFO]  Epoch[17] Train-cross-entropy=0.006268
+2023-02-19 14:56:54,246 [INFO]  Epoch[17] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:56:54,246 [INFO]  Epoch[17] Time cost=56.385
+2023-02-19 14:56:54,248 [INFO]  Saved checkpoint to "imputer_model\model-0017.params"
+2023-02-19 14:56:57,501 [INFO]  Epoch[17] Validation-cross-entropy=0.002041
+2023-02-19 14:56:57,501 [INFO]  Epoch[17] Validation-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:57:25,711 [INFO]  Epoch[18] Batch [0-9917]	Speed: 5625.08 samples/sec	cross-entropy=0.006221	nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:57:54,070 [INFO]  Epoch[18] Train-cross-entropy=0.006260
+2023-02-19 14:57:54,070 [INFO]  Epoch[18] Train-nmme-tmp2m-56w__ccsm3-accuracy=0.000000
+2023-02-19 14:57:54,070 [INFO]  Epoch[18] Time cost=56.569
+2023-02-19 14:57:54,072 [INFO]  Saved checkpoint to "imputer_model\model-0018.params"
+2023-02-19 14:57:57,463 [INFO]  No improvement detected for 5 epochs compared to 0.0009694634617783046 last error obtained: 0.0026688759176406213, stopping here
+2023-02-19 14:57:57,463 [INFO]  
+========== done (1142.8400480747223 s) fit model
+2023-02-19 14:58:25,294 [INFO]  
+========== start: fit model
+2023-02-19 14:58:25,295 [WARNING]  Already bound, ignoring bind()
+2023-02-19 14:58:56,472 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5090.33 samples/sec	cross-entropy=0.221429	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 14:59:25,781 [INFO]  Epoch[0] Train-cross-entropy=0.131871
+2023-02-19 14:59:25,781 [INFO]  Epoch[0] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 14:59:25,781 [INFO]  Epoch[0] Time cost=60.484
+2023-02-19 14:59:25,783 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-19 14:59:29,199 [INFO]  Epoch[0] Validation-cross-entropy=0.023848
+2023-02-19 14:59:29,199 [INFO]  Epoch[0] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 14:59:57,723 [INFO]  Epoch[1] Batch [0-9917]	Speed: 5563.34 samples/sec	cross-entropy=0.026207	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:00:26,394 [INFO]  Epoch[1] Train-cross-entropy=0.021238
+2023-02-19 15:00:26,394 [INFO]  Epoch[1] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:00:26,394 [INFO]  Epoch[1] Time cost=57.195
+2023-02-19 15:00:26,396 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-19 15:00:29,812 [INFO]  Epoch[1] Validation-cross-entropy=0.002197
+2023-02-19 15:00:29,812 [INFO]  Epoch[1] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:00:58,641 [INFO]  Epoch[2] Batch [0-9917]	Speed: 5504.30 samples/sec	cross-entropy=0.014538	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:01:27,434 [INFO]  Epoch[2] Train-cross-entropy=0.013205
+2023-02-19 15:01:27,435 [INFO]  Epoch[2] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:01:27,435 [INFO]  Epoch[2] Time cost=57.624
+2023-02-19 15:01:27,438 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2023-02-19 15:01:30,809 [INFO]  Epoch[2] Validation-cross-entropy=0.004556
+2023-02-19 15:01:30,809 [INFO]  Epoch[2] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:01:59,685 [INFO]  Epoch[3] Batch [0-9917]	Speed: 5495.50 samples/sec	cross-entropy=0.011360	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:02:28,708 [INFO]  Epoch[3] Train-cross-entropy=0.010629
+2023-02-19 15:02:28,708 [INFO]  Epoch[3] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:02:28,708 [INFO]  Epoch[3] Time cost=57.899
+2023-02-19 15:02:28,711 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2023-02-19 15:02:32,021 [INFO]  Epoch[3] Validation-cross-entropy=0.008707
+2023-02-19 15:02:32,021 [INFO]  Epoch[3] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:03:00,680 [INFO]  Epoch[4] Batch [0-9917]	Speed: 5537.25 samples/sec	cross-entropy=0.009475	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:03:29,423 [INFO]  Epoch[4] Train-cross-entropy=0.009710
+2023-02-19 15:03:29,423 [INFO]  Epoch[4] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:03:29,423 [INFO]  Epoch[4] Time cost=57.403
+2023-02-19 15:03:29,425 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2023-02-19 15:03:32,943 [INFO]  Epoch[4] Validation-cross-entropy=0.001058
+2023-02-19 15:03:32,943 [INFO]  Epoch[4] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:04:01,726 [INFO]  Epoch[5] Batch [0-9917]	Speed: 5513.30 samples/sec	cross-entropy=0.009093	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:04:30,724 [INFO]  Epoch[5] Train-cross-entropy=0.009071
+2023-02-19 15:04:30,724 [INFO]  Epoch[5] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:04:30,724 [INFO]  Epoch[5] Time cost=57.781
+2023-02-19 15:04:30,726 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2023-02-19 15:04:34,066 [INFO]  Epoch[5] Validation-cross-entropy=0.000706
+2023-02-19 15:04:34,066 [INFO]  Epoch[5] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:05:02,697 [INFO]  Epoch[6] Batch [0-9917]	Speed: 5542.43 samples/sec	cross-entropy=0.008757	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:05:31,360 [INFO]  Epoch[6] Train-cross-entropy=0.008674
+2023-02-19 15:05:31,360 [INFO]  Epoch[6] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:05:31,360 [INFO]  Epoch[6] Time cost=57.294
+2023-02-19 15:05:31,362 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2023-02-19 15:05:34,941 [INFO]  Epoch[6] Validation-cross-entropy=0.003895
+2023-02-19 15:05:34,941 [INFO]  Epoch[6] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:06:04,083 [INFO]  Epoch[7] Batch [0-9917]	Speed: 5445.32 samples/sec	cross-entropy=0.008775	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:06:33,190 [INFO]  Epoch[7] Train-cross-entropy=0.008775
+2023-02-19 15:06:33,190 [INFO]  Epoch[7] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:06:33,190 [INFO]  Epoch[7] Time cost=58.250
+2023-02-19 15:06:33,192 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2023-02-19 15:06:36,624 [INFO]  Epoch[7] Validation-cross-entropy=0.001569
+2023-02-19 15:06:36,624 [INFO]  Epoch[7] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:07:05,845 [INFO]  Epoch[8] Batch [0-9917]	Speed: 5431.07 samples/sec	cross-entropy=0.008310	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:07:34,467 [INFO]  Epoch[8] Train-cross-entropy=0.008727
+2023-02-19 15:07:34,467 [INFO]  Epoch[8] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:07:34,467 [INFO]  Epoch[8] Time cost=57.843
+2023-02-19 15:07:34,469 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2023-02-19 15:07:37,981 [INFO]  Epoch[8] Validation-cross-entropy=0.000183
+2023-02-19 15:07:37,982 [INFO]  Epoch[8] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:08:07,337 [INFO]  Epoch[9] Batch [0-9917]	Speed: 5405.88 samples/sec	cross-entropy=0.008208	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:08:35,918 [INFO]  Epoch[9] Train-cross-entropy=0.008101
+2023-02-19 15:08:35,918 [INFO]  Epoch[9] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:08:35,918 [INFO]  Epoch[9] Time cost=57.935
+2023-02-19 15:08:35,920 [INFO]  Saved checkpoint to "imputer_model\model-0009.params"
+2023-02-19 15:08:39,255 [INFO]  Epoch[9] Validation-cross-entropy=0.000620
+2023-02-19 15:08:39,255 [INFO]  Epoch[9] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:09:07,859 [INFO]  Epoch[10] Batch [0-9917]	Speed: 5547.97 samples/sec	cross-entropy=0.009334	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:09:36,333 [INFO]  Epoch[10] Train-cross-entropy=0.008826
+2023-02-19 15:09:36,333 [INFO]  Epoch[10] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:09:36,333 [INFO]  Epoch[10] Time cost=57.078
+2023-02-19 15:09:36,335 [INFO]  Saved checkpoint to "imputer_model\model-0010.params"
+2023-02-19 15:09:39,706 [INFO]  Epoch[10] Validation-cross-entropy=0.000183
+2023-02-19 15:09:39,706 [INFO]  Epoch[10] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:10:09,326 [INFO]  Epoch[11] Batch [0-9917]	Speed: 5357.43 samples/sec	cross-entropy=0.008150	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:10:38,954 [INFO]  Epoch[11] Train-cross-entropy=0.008555
+2023-02-19 15:10:38,954 [INFO]  Epoch[11] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:10:38,954 [INFO]  Epoch[11] Time cost=59.248
+2023-02-19 15:10:38,956 [INFO]  Saved checkpoint to "imputer_model\model-0011.params"
+2023-02-19 15:10:42,288 [INFO]  Epoch[11] Validation-cross-entropy=0.001551
+2023-02-19 15:10:42,288 [INFO]  Epoch[11] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:11:11,531 [INFO]  Epoch[12] Batch [0-9917]	Speed: 5426.47 samples/sec	cross-entropy=0.007749	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:11:40,114 [INFO]  Epoch[12] Train-cross-entropy=0.008135
+2023-02-19 15:11:40,114 [INFO]  Epoch[12] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:11:40,114 [INFO]  Epoch[12] Time cost=57.827
+2023-02-19 15:11:40,117 [INFO]  Saved checkpoint to "imputer_model\model-0012.params"
+2023-02-19 15:11:43,442 [INFO]  Epoch[12] Validation-cross-entropy=0.006246
+2023-02-19 15:11:43,442 [INFO]  Epoch[12] Validation-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:12:11,778 [INFO]  Epoch[13] Batch [0-9917]	Speed: 5600.17 samples/sec	cross-entropy=0.008145	nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:12:41,256 [INFO]  Epoch[13] Train-cross-entropy=0.008145
+2023-02-19 15:12:41,256 [INFO]  Epoch[13] Train-nmme-prate-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:12:41,256 [INFO]  Epoch[13] Time cost=57.814
+2023-02-19 15:12:41,259 [INFO]  Saved checkpoint to "imputer_model\model-0013.params"
+2023-02-19 15:12:44,710 [INFO]  No improvement detected for 5 epochs compared to 0.00018296637681437962 last error obtained: 0.004199718314246972, stopping here
+2023-02-19 15:12:44,710 [INFO]  
+========== done (859.415632724762 s) fit model
+2023-02-19 15:13:11,641 [INFO]  
+========== start: fit model
+2023-02-19 15:13:11,641 [WARNING]  Already bound, ignoring bind()
+2023-02-19 15:13:40,273 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5542.86 samples/sec	cross-entropy=0.235223	nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:14:09,681 [INFO]  Epoch[0] Train-cross-entropy=0.167592
+2023-02-19 15:14:09,681 [INFO]  Epoch[0] Train-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:14:09,682 [INFO]  Epoch[0] Time cost=58.040
+2023-02-19 15:14:09,684 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-19 15:14:13,101 [INFO]  Epoch[0] Validation-cross-entropy=0.041014
+2023-02-19 15:14:13,101 [INFO]  Epoch[0] Validation-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:14:42,318 [INFO]  Epoch[1] Batch [0-9917]	Speed: 5431.27 samples/sec	cross-entropy=0.028437	nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:15:10,730 [INFO]  Epoch[1] Train-cross-entropy=0.024476
+2023-02-19 15:15:10,730 [INFO]  Epoch[1] Train-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:15:10,730 [INFO]  Epoch[1] Time cost=57.630
+2023-02-19 15:15:10,732 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-19 15:15:14,093 [INFO]  Epoch[1] Validation-cross-entropy=0.015698
+2023-02-19 15:15:14,093 [INFO]  Epoch[1] Validation-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:15:42,688 [INFO]  Epoch[2] Batch [0-9917]	Speed: 5549.58 samples/sec	cross-entropy=0.014822	nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:16:11,236 [INFO]  Epoch[2] Train-cross-entropy=0.013596
+2023-02-19 15:16:11,237 [INFO]  Epoch[2] Train-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:16:11,237 [INFO]  Epoch[2] Time cost=57.145
+2023-02-19 15:16:11,239 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2023-02-19 15:16:14,548 [INFO]  Epoch[2] Validation-cross-entropy=0.002356
+2023-02-19 15:16:14,548 [INFO]  Epoch[2] Validation-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:16:43,118 [INFO]  Epoch[3] Batch [0-9917]	Speed: 5554.47 samples/sec	cross-entropy=0.012036	nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:17:11,753 [INFO]  Epoch[3] Train-cross-entropy=0.011767
+2023-02-19 15:17:11,753 [INFO]  Epoch[3] Train-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:17:11,753 [INFO]  Epoch[3] Time cost=57.205
+2023-02-19 15:17:11,755 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2023-02-19 15:17:15,059 [INFO]  Epoch[3] Validation-cross-entropy=0.000692
+2023-02-19 15:17:15,060 [INFO]  Epoch[3] Validation-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:17:43,621 [INFO]  Epoch[4] Batch [0-9917]	Speed: 5556.15 samples/sec	cross-entropy=0.011417	nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:18:12,295 [INFO]  Epoch[4] Train-cross-entropy=0.011009
+2023-02-19 15:18:12,295 [INFO]  Epoch[4] Train-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:18:12,295 [INFO]  Epoch[4] Time cost=57.235
+2023-02-19 15:18:12,298 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2023-02-19 15:18:15,709 [INFO]  Epoch[4] Validation-cross-entropy=0.008293
+2023-02-19 15:18:15,709 [INFO]  Epoch[4] Validation-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:18:46,030 [INFO]  Epoch[5] Batch [0-9917]	Speed: 5233.62 samples/sec	cross-entropy=0.010660	nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:19:14,506 [INFO]  Epoch[5] Train-cross-entropy=0.010457
+2023-02-19 15:19:14,506 [INFO]  Epoch[5] Train-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:19:14,506 [INFO]  Epoch[5] Time cost=58.797
+2023-02-19 15:19:14,508 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2023-02-19 15:19:17,883 [INFO]  Epoch[5] Validation-cross-entropy=0.001157
+2023-02-19 15:19:17,883 [INFO]  Epoch[5] Validation-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:19:46,092 [INFO]  Epoch[6] Batch [0-9917]	Speed: 5625.48 samples/sec	cross-entropy=0.009967	nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:20:14,278 [INFO]  Epoch[6] Train-cross-entropy=0.009781
+2023-02-19 15:20:14,278 [INFO]  Epoch[6] Train-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:20:14,278 [INFO]  Epoch[6] Time cost=56.394
+2023-02-19 15:20:14,280 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2023-02-19 15:20:17,609 [INFO]  Epoch[6] Validation-cross-entropy=0.021170
+2023-02-19 15:20:17,609 [INFO]  Epoch[6] Validation-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:20:45,836 [INFO]  Epoch[7] Batch [0-9917]	Speed: 5622.13 samples/sec	cross-entropy=0.009883	nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:21:14,013 [INFO]  Epoch[7] Train-cross-entropy=0.009895
+2023-02-19 15:21:14,013 [INFO]  Epoch[7] Train-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:21:14,014 [INFO]  Epoch[7] Time cost=56.405
+2023-02-19 15:21:14,016 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2023-02-19 15:21:17,274 [INFO]  Epoch[7] Validation-cross-entropy=0.008890
+2023-02-19 15:21:17,274 [INFO]  Epoch[7] Validation-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:21:45,475 [INFO]  Epoch[8] Batch [0-9917]	Speed: 5627.19 samples/sec	cross-entropy=0.009122	nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:22:13,702 [INFO]  Epoch[8] Train-cross-entropy=0.009171
+2023-02-19 15:22:13,702 [INFO]  Epoch[8] Train-nmme0-prate-56w__ccsm30-accuracy=0.000000
+2023-02-19 15:22:13,702 [INFO]  Epoch[8] Time cost=56.428
+2023-02-19 15:22:13,704 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2023-02-19 15:22:16,991 [INFO]  No improvement detected for 5 epochs compared to 0.0006915051686690956 last error obtained: 0.0029306532631813297, stopping here
+2023-02-19 15:22:16,991 [INFO]  
+========== done (545.3510465621948 s) fit model
+2023-02-19 15:22:45,768 [INFO]  
+========== start: fit model
+2023-02-19 15:22:45,769 [WARNING]  Already bound, ignoring bind()
+2023-02-19 15:23:14,130 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5595.60 samples/sec	cross-entropy=0.217134	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:23:42,142 [INFO]  Epoch[0] Train-cross-entropy=0.158525
+2023-02-19 15:23:42,142 [INFO]  Epoch[0] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:23:42,142 [INFO]  Epoch[0] Time cost=56.371
+2023-02-19 15:23:42,144 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-19 15:23:45,439 [INFO]  Epoch[0] Validation-cross-entropy=0.005092
+2023-02-19 15:23:45,439 [INFO]  Epoch[0] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:24:13,463 [INFO]  Epoch[1] Batch [0-9917]	Speed: 5662.68 samples/sec	cross-entropy=0.025083	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:24:42,126 [INFO]  Epoch[1] Train-cross-entropy=0.022811
+2023-02-19 15:24:42,126 [INFO]  Epoch[1] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:24:42,126 [INFO]  Epoch[1] Time cost=56.685
+2023-02-19 15:24:42,128 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-19 15:24:45,486 [INFO]  Epoch[1] Validation-cross-entropy=0.001297
+2023-02-19 15:24:45,486 [INFO]  Epoch[1] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:25:13,508 [INFO]  Epoch[2] Batch [0-9917]	Speed: 5662.91 samples/sec	cross-entropy=0.014494	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:25:41,520 [INFO]  Epoch[2] Train-cross-entropy=0.013848
+2023-02-19 15:25:41,520 [INFO]  Epoch[2] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:25:41,520 [INFO]  Epoch[2] Time cost=56.034
+2023-02-19 15:25:41,522 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2023-02-19 15:25:44,804 [INFO]  Epoch[2] Validation-cross-entropy=0.009756
+2023-02-19 15:25:44,805 [INFO]  Epoch[2] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:26:12,859 [INFO]  Epoch[3] Batch [0-9917]	Speed: 5656.63 samples/sec	cross-entropy=0.013381	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:26:40,955 [INFO]  Epoch[3] Train-cross-entropy=0.012643
+2023-02-19 15:26:40,955 [INFO]  Epoch[3] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:26:40,955 [INFO]  Epoch[3] Time cost=56.150
+2023-02-19 15:26:40,957 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2023-02-19 15:26:44,228 [INFO]  Epoch[3] Validation-cross-entropy=0.010308
+2023-02-19 15:26:44,228 [INFO]  Epoch[3] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:27:12,272 [INFO]  Epoch[4] Batch [0-9917]	Speed: 5658.44 samples/sec	cross-entropy=0.010631	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:27:40,350 [INFO]  Epoch[4] Train-cross-entropy=0.010337
+2023-02-19 15:27:40,350 [INFO]  Epoch[4] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:27:40,350 [INFO]  Epoch[4] Time cost=56.121
+2023-02-19 15:27:40,352 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2023-02-19 15:27:43,679 [INFO]  Epoch[4] Validation-cross-entropy=0.000817
+2023-02-19 15:27:43,679 [INFO]  Epoch[4] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:28:11,791 [INFO]  Epoch[5] Batch [0-9917]	Speed: 5644.91 samples/sec	cross-entropy=0.009946	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:28:39,808 [INFO]  Epoch[5] Train-cross-entropy=0.010117
+2023-02-19 15:28:39,808 [INFO]  Epoch[5] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:28:39,808 [INFO]  Epoch[5] Time cost=56.129
+2023-02-19 15:28:39,810 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2023-02-19 15:28:43,119 [INFO]  Epoch[5] Validation-cross-entropy=0.005619
+2023-02-19 15:28:43,119 [INFO]  Epoch[5] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:29:11,205 [INFO]  Epoch[6] Batch [0-9917]	Speed: 5650.05 samples/sec	cross-entropy=0.009801	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:29:39,312 [INFO]  Epoch[6] Train-cross-entropy=0.009979
+2023-02-19 15:29:39,312 [INFO]  Epoch[6] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:29:39,312 [INFO]  Epoch[6] Time cost=56.194
+2023-02-19 15:29:39,314 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2023-02-19 15:29:42,580 [INFO]  Epoch[6] Validation-cross-entropy=0.000607
+2023-02-19 15:29:42,580 [INFO]  Epoch[6] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:30:10,651 [INFO]  Epoch[7] Batch [0-9917]	Speed: 5653.17 samples/sec	cross-entropy=0.009372	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:30:38,774 [INFO]  Epoch[7] Train-cross-entropy=0.009495
+2023-02-19 15:30:38,774 [INFO]  Epoch[7] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:30:38,774 [INFO]  Epoch[7] Time cost=56.194
+2023-02-19 15:30:38,776 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2023-02-19 15:30:42,067 [INFO]  Epoch[7] Validation-cross-entropy=0.018872
+2023-02-19 15:30:42,067 [INFO]  Epoch[7] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:31:10,192 [INFO]  Epoch[8] Batch [0-9917]	Speed: 5642.24 samples/sec	cross-entropy=0.009708	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:31:38,350 [INFO]  Epoch[8] Train-cross-entropy=0.010077
+2023-02-19 15:31:38,350 [INFO]  Epoch[8] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:31:38,350 [INFO]  Epoch[8] Time cost=56.282
+2023-02-19 15:31:38,352 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2023-02-19 15:31:41,694 [INFO]  Epoch[8] Validation-cross-entropy=0.011161
+2023-02-19 15:31:41,694 [INFO]  Epoch[8] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:32:09,825 [INFO]  Epoch[9] Batch [0-9917]	Speed: 5641.08 samples/sec	cross-entropy=0.008756	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:32:37,905 [INFO]  Epoch[9] Train-cross-entropy=0.009393
+2023-02-19 15:32:37,905 [INFO]  Epoch[9] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:32:37,905 [INFO]  Epoch[9] Time cost=56.211
+2023-02-19 15:32:37,907 [INFO]  Saved checkpoint to "imputer_model\model-0009.params"
+2023-02-19 15:32:41,169 [INFO]  Epoch[9] Validation-cross-entropy=0.000489
+2023-02-19 15:32:41,169 [INFO]  Epoch[9] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:33:09,333 [INFO]  Epoch[10] Batch [0-9917]	Speed: 5634.51 samples/sec	cross-entropy=0.010205	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:33:37,506 [INFO]  Epoch[10] Train-cross-entropy=0.009853
+2023-02-19 15:33:37,506 [INFO]  Epoch[10] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:33:37,506 [INFO]  Epoch[10] Time cost=56.336
+2023-02-19 15:33:37,508 [INFO]  Saved checkpoint to "imputer_model\model-0010.params"
+2023-02-19 15:33:40,765 [INFO]  Epoch[10] Validation-cross-entropy=0.010313
+2023-02-19 15:33:40,765 [INFO]  Epoch[10] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:34:08,870 [INFO]  Epoch[11] Batch [0-9917]	Speed: 5646.20 samples/sec	cross-entropy=0.009971	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:34:38,766 [INFO]  Epoch[11] Train-cross-entropy=0.009855
+2023-02-19 15:34:38,767 [INFO]  Epoch[11] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:34:38,767 [INFO]  Epoch[11] Time cost=58.002
+2023-02-19 15:34:38,769 [INFO]  Saved checkpoint to "imputer_model\model-0011.params"
+2023-02-19 15:34:42,261 [INFO]  Epoch[11] Validation-cross-entropy=0.006253
+2023-02-19 15:34:42,261 [INFO]  Epoch[11] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:35:11,269 [INFO]  Epoch[12] Batch [0-9917]	Speed: 5470.50 samples/sec	cross-entropy=0.009480	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:35:39,985 [INFO]  Epoch[12] Train-cross-entropy=0.010262
+2023-02-19 15:35:39,985 [INFO]  Epoch[12] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:35:39,985 [INFO]  Epoch[12] Time cost=57.724
+2023-02-19 15:35:39,987 [INFO]  Saved checkpoint to "imputer_model\model-0012.params"
+2023-02-19 15:35:43,295 [INFO]  Epoch[12] Validation-cross-entropy=0.052048
+2023-02-19 15:35:43,295 [INFO]  Epoch[12] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:36:11,807 [INFO]  Epoch[13] Batch [0-9917]	Speed: 5565.69 samples/sec	cross-entropy=0.009958	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:36:40,536 [INFO]  Epoch[13] Train-cross-entropy=0.009969
+2023-02-19 15:36:40,536 [INFO]  Epoch[13] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:36:40,536 [INFO]  Epoch[13] Time cost=57.241
+2023-02-19 15:36:40,538 [INFO]  Saved checkpoint to "imputer_model\model-0013.params"
+2023-02-19 15:36:43,963 [INFO]  Epoch[13] Validation-cross-entropy=0.000691
+2023-02-19 15:36:43,963 [INFO]  Epoch[13] Validation-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:37:12,584 [INFO]  Epoch[14] Batch [0-9917]	Speed: 5544.48 samples/sec	cross-entropy=0.008662	nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:37:41,341 [INFO]  Epoch[14] Train-cross-entropy=0.009151
+2023-02-19 15:37:41,341 [INFO]  Epoch[14] Train-nmme0-prate-34w__ccsm30-accuracy=0.000000
+2023-02-19 15:37:41,341 [INFO]  Epoch[14] Time cost=57.378
+2023-02-19 15:37:41,343 [INFO]  Saved checkpoint to "imputer_model\model-0014.params"
+2023-02-19 15:37:44,659 [INFO]  No improvement detected for 5 epochs compared to 0.0004890533102014015 last error obtained: 0.0012491937369765176, stopping here
+2023-02-19 15:37:44,659 [INFO]  
+========== done (898.8908536434174 s) fit model
+2023-02-19 15:38:13,783 [INFO]  
+========== start: fit model
+2023-02-19 15:38:13,784 [WARNING]  Already bound, ignoring bind()
+2023-02-19 15:38:42,300 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5565.41 samples/sec	cross-entropy=0.220615	nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:39:10,641 [INFO]  Epoch[0] Train-cross-entropy=0.141165
+2023-02-19 15:39:10,641 [INFO]  Epoch[0] Train-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:39:10,642 [INFO]  Epoch[0] Time cost=56.858
+2023-02-19 15:39:10,643 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-19 15:39:13,943 [INFO]  Epoch[0] Validation-cross-entropy=0.085742
+2023-02-19 15:39:13,944 [INFO]  Epoch[0] Validation-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:39:42,361 [INFO]  Epoch[1] Batch [0-9917]	Speed: 5584.19 samples/sec	cross-entropy=0.038788	nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:40:10,768 [INFO]  Epoch[1] Train-cross-entropy=0.027793
+2023-02-19 15:40:10,768 [INFO]  Epoch[1] Train-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:40:10,768 [INFO]  Epoch[1] Time cost=56.824
+2023-02-19 15:40:10,770 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-19 15:40:14,057 [INFO]  Epoch[1] Validation-cross-entropy=0.003722
+2023-02-19 15:40:14,057 [INFO]  Epoch[1] Validation-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:40:42,514 [INFO]  Epoch[2] Batch [0-9917]	Speed: 5576.58 samples/sec	cross-entropy=0.013936	nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:41:10,949 [INFO]  Epoch[2] Train-cross-entropy=0.013337
+2023-02-19 15:41:10,949 [INFO]  Epoch[2] Train-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:41:10,949 [INFO]  Epoch[2] Time cost=56.892
+2023-02-19 15:41:10,952 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2023-02-19 15:41:14,331 [INFO]  Epoch[2] Validation-cross-entropy=0.005101
+2023-02-19 15:41:14,331 [INFO]  Epoch[2] Validation-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:41:42,766 [INFO]  Epoch[3] Batch [0-9917]	Speed: 5580.75 samples/sec	cross-entropy=0.010727	nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:42:11,374 [INFO]  Epoch[3] Train-cross-entropy=0.010235
+2023-02-19 15:42:11,374 [INFO]  Epoch[3] Train-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:42:11,374 [INFO]  Epoch[3] Time cost=57.043
+2023-02-19 15:42:11,377 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2023-02-19 15:42:14,733 [INFO]  Epoch[3] Validation-cross-entropy=0.002394
+2023-02-19 15:42:14,733 [INFO]  Epoch[3] Validation-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:42:43,412 [INFO]  Epoch[4] Batch [0-9917]	Speed: 5533.30 samples/sec	cross-entropy=0.009154	nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:43:12,162 [INFO]  Epoch[4] Train-cross-entropy=0.009409
+2023-02-19 15:43:12,162 [INFO]  Epoch[4] Train-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:43:12,162 [INFO]  Epoch[4] Time cost=57.429
+2023-02-19 15:43:12,164 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2023-02-19 15:43:15,541 [INFO]  Epoch[4] Validation-cross-entropy=0.002362
+2023-02-19 15:43:15,541 [INFO]  Epoch[4] Validation-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:43:44,066 [INFO]  Epoch[5] Batch [0-9917]	Speed: 5563.17 samples/sec	cross-entropy=0.009573	nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:44:12,563 [INFO]  Epoch[5] Train-cross-entropy=0.009193
+2023-02-19 15:44:12,564 [INFO]  Epoch[5] Train-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:44:12,564 [INFO]  Epoch[5] Time cost=57.023
+2023-02-19 15:44:12,565 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2023-02-19 15:44:15,856 [INFO]  Epoch[5] Validation-cross-entropy=0.007415
+2023-02-19 15:44:15,856 [INFO]  Epoch[5] Validation-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:44:44,478 [INFO]  Epoch[6] Batch [0-9917]	Speed: 5544.24 samples/sec	cross-entropy=0.007945	nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:45:13,009 [INFO]  Epoch[6] Train-cross-entropy=0.008212
+2023-02-19 15:45:13,009 [INFO]  Epoch[6] Train-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:45:13,009 [INFO]  Epoch[6] Time cost=57.153
+2023-02-19 15:45:13,011 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2023-02-19 15:45:16,299 [INFO]  Epoch[6] Validation-cross-entropy=0.002417
+2023-02-19 15:45:16,299 [INFO]  Epoch[6] Validation-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:45:44,762 [INFO]  Epoch[7] Batch [0-9917]	Speed: 5575.41 samples/sec	cross-entropy=0.008470	nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:46:13,257 [INFO]  Epoch[7] Train-cross-entropy=0.008196
+2023-02-19 15:46:13,257 [INFO]  Epoch[7] Train-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:46:13,258 [INFO]  Epoch[7] Time cost=56.958
+2023-02-19 15:46:13,260 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2023-02-19 15:46:16,599 [INFO]  Epoch[7] Validation-cross-entropy=0.002777
+2023-02-19 15:46:16,600 [INFO]  Epoch[7] Validation-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:46:45,063 [INFO]  Epoch[8] Batch [0-9917]	Speed: 5575.28 samples/sec	cross-entropy=0.008264	nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:47:13,469 [INFO]  Epoch[8] Train-cross-entropy=0.008314
+2023-02-19 15:47:13,469 [INFO]  Epoch[8] Train-nmme-prate-56w__ccsm3-accuracy=0.000000
+2023-02-19 15:47:13,469 [INFO]  Epoch[8] Time cost=56.869
+2023-02-19 15:47:13,471 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2023-02-19 15:47:16,836 [INFO]  No improvement detected for 5 epochs compared to 0.0023938358583155436 last error obtained: 0.0047943442975673335, stopping here
+2023-02-19 15:47:16,837 [INFO]  
+========== done (543.0535018444061 s) fit model
+2023-02-19 15:47:43,590 [INFO]  
+========== start: fit model
+2023-02-19 15:47:43,590 [WARNING]  Already bound, ignoring bind()
+2023-02-19 15:48:11,953 [INFO]  Epoch[0] Batch [0-9917]	Speed: 5595.30 samples/sec	cross-entropy=0.089577	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:48:40,633 [INFO]  Epoch[0] Train-cross-entropy=0.061392
+2023-02-19 15:48:40,633 [INFO]  Epoch[0] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:48:40,633 [INFO]  Epoch[0] Time cost=57.042
+2023-02-19 15:48:40,636 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-19 15:48:43,913 [INFO]  Epoch[0] Validation-cross-entropy=0.059556
+2023-02-19 15:48:43,913 [INFO]  Epoch[0] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:49:12,696 [INFO]  Epoch[1] Batch [0-9917]	Speed: 5513.32 samples/sec	cross-entropy=0.023502	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:49:42,271 [INFO]  Epoch[1] Train-cross-entropy=0.021094
+2023-02-19 15:49:42,271 [INFO]  Epoch[1] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:49:42,271 [INFO]  Epoch[1] Time cost=58.358
+2023-02-19 15:49:42,274 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-19 15:49:45,800 [INFO]  Epoch[1] Validation-cross-entropy=0.013343
+2023-02-19 15:49:45,800 [INFO]  Epoch[1] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:50:14,727 [INFO]  Epoch[2] Batch [0-9917]	Speed: 5485.66 samples/sec	cross-entropy=0.014672	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:50:42,720 [INFO]  Epoch[2] Train-cross-entropy=0.013669
+2023-02-19 15:50:42,720 [INFO]  Epoch[2] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:50:42,720 [INFO]  Epoch[2] Time cost=56.920
+2023-02-19 15:50:42,722 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2023-02-19 15:50:45,996 [INFO]  Epoch[2] Validation-cross-entropy=0.007765
+2023-02-19 15:50:45,996 [INFO]  Epoch[2] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:51:14,009 [INFO]  Epoch[3] Batch [0-9917]	Speed: 5664.91 samples/sec	cross-entropy=0.010766	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:51:42,039 [INFO]  Epoch[3] Train-cross-entropy=0.010412
+2023-02-19 15:51:42,039 [INFO]  Epoch[3] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:51:42,039 [INFO]  Epoch[3] Time cost=56.043
+2023-02-19 15:51:42,041 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2023-02-19 15:51:45,339 [INFO]  Epoch[3] Validation-cross-entropy=0.005150
+2023-02-19 15:51:45,339 [INFO]  Epoch[3] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:52:13,227 [INFO]  Epoch[4] Batch [0-9917]	Speed: 5690.28 samples/sec	cross-entropy=0.009797	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:52:42,420 [INFO]  Epoch[4] Train-cross-entropy=0.009100
+2023-02-19 15:52:42,420 [INFO]  Epoch[4] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:52:42,420 [INFO]  Epoch[4] Time cost=57.081
+2023-02-19 15:52:42,422 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2023-02-19 15:52:46,105 [INFO]  Epoch[4] Validation-cross-entropy=0.003663
+2023-02-19 15:52:46,105 [INFO]  Epoch[4] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:53:15,333 [INFO]  Epoch[5] Batch [0-9917]	Speed: 5429.21 samples/sec	cross-entropy=0.008869	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:53:44,920 [INFO]  Epoch[5] Train-cross-entropy=0.008357
+2023-02-19 15:53:44,920 [INFO]  Epoch[5] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:53:44,920 [INFO]  Epoch[5] Time cost=58.816
+2023-02-19 15:53:44,922 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2023-02-19 15:53:48,403 [INFO]  Epoch[5] Validation-cross-entropy=0.006091
+2023-02-19 15:53:48,403 [INFO]  Epoch[5] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:54:18,125 [INFO]  Epoch[6] Batch [0-9917]	Speed: 5339.05 samples/sec	cross-entropy=0.008175	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:54:48,794 [INFO]  Epoch[6] Train-cross-entropy=0.007533
+2023-02-19 15:54:48,794 [INFO]  Epoch[6] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:54:48,794 [INFO]  Epoch[6] Time cost=60.391
+2023-02-19 15:54:48,796 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2023-02-19 15:54:52,285 [INFO]  Epoch[6] Validation-cross-entropy=0.004197
+2023-02-19 15:54:52,285 [INFO]  Epoch[6] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:55:21,734 [INFO]  Epoch[7] Batch [0-9917]	Speed: 5388.57 samples/sec	cross-entropy=0.007509	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:55:52,738 [INFO]  Epoch[7] Train-cross-entropy=0.007252
+2023-02-19 15:55:52,738 [INFO]  Epoch[7] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:55:52,738 [INFO]  Epoch[7] Time cost=60.453
+2023-02-19 15:55:52,741 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2023-02-19 15:55:56,320 [INFO]  Epoch[7] Validation-cross-entropy=0.004736
+2023-02-19 15:55:56,320 [INFO]  Epoch[7] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:56:27,253 [INFO]  Epoch[8] Batch [0-9917]	Speed: 5129.92 samples/sec	cross-entropy=0.007359	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:56:56,684 [INFO]  Epoch[8] Train-cross-entropy=0.007078
+2023-02-19 15:56:56,685 [INFO]  Epoch[8] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:56:56,685 [INFO]  Epoch[8] Time cost=60.365
+2023-02-19 15:56:56,687 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2023-02-19 15:57:00,210 [INFO]  Epoch[8] Validation-cross-entropy=0.002660
+2023-02-19 15:57:00,210 [INFO]  Epoch[8] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:57:29,647 [INFO]  Epoch[9] Batch [0-9917]	Speed: 5390.89 samples/sec	cross-entropy=0.006893	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:58:01,690 [INFO]  Epoch[9] Train-cross-entropy=0.006941
+2023-02-19 15:58:01,690 [INFO]  Epoch[9] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:58:01,690 [INFO]  Epoch[9] Time cost=61.480
+2023-02-19 15:58:01,693 [INFO]  Saved checkpoint to "imputer_model\model-0009.params"
+2023-02-19 15:58:06,120 [INFO]  Epoch[9] Validation-cross-entropy=0.003693
+2023-02-19 15:58:06,120 [INFO]  Epoch[9] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:58:38,214 [INFO]  Epoch[10] Batch [0-9917]	Speed: 4944.51 samples/sec	cross-entropy=0.006928	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:59:08,651 [INFO]  Epoch[10] Train-cross-entropy=0.006734
+2023-02-19 15:59:08,651 [INFO]  Epoch[10] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:59:08,651 [INFO]  Epoch[10] Time cost=62.532
+2023-02-19 15:59:08,654 [INFO]  Saved checkpoint to "imputer_model\model-0010.params"
+2023-02-19 15:59:12,138 [INFO]  Epoch[10] Validation-cross-entropy=0.002526
+2023-02-19 15:59:12,138 [INFO]  Epoch[10] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 15:59:42,874 [INFO]  Epoch[11] Batch [0-9917]	Speed: 5162.84 samples/sec	cross-entropy=0.006804	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:00:16,949 [INFO]  Epoch[11] Train-cross-entropy=0.006615
+2023-02-19 16:00:16,949 [INFO]  Epoch[11] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:00:16,950 [INFO]  Epoch[11] Time cost=64.810
+2023-02-19 16:00:16,952 [INFO]  Saved checkpoint to "imputer_model\model-0011.params"
+2023-02-19 16:00:21,719 [INFO]  Epoch[11] Validation-cross-entropy=0.002877
+2023-02-19 16:00:21,720 [INFO]  Epoch[11] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:00:56,421 [INFO]  Epoch[12] Batch [0-9917]	Speed: 4573.12 samples/sec	cross-entropy=0.006394	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:01:30,373 [INFO]  Epoch[12] Train-cross-entropy=0.006718
+2023-02-19 16:01:30,373 [INFO]  Epoch[12] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:01:30,373 [INFO]  Epoch[12] Time cost=68.652
+2023-02-19 16:01:30,376 [INFO]  Saved checkpoint to "imputer_model\model-0012.params"
+2023-02-19 16:01:34,158 [INFO]  Epoch[12] Validation-cross-entropy=0.000722
+2023-02-19 16:01:34,158 [INFO]  Epoch[12] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:02:07,381 [INFO]  Epoch[13] Batch [0-9917]	Speed: 4776.50 samples/sec	cross-entropy=0.006341	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:02:40,455 [INFO]  Epoch[13] Train-cross-entropy=0.006200
+2023-02-19 16:02:40,455 [INFO]  Epoch[13] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:02:40,455 [INFO]  Epoch[13] Time cost=66.297
+2023-02-19 16:02:40,457 [INFO]  Saved checkpoint to "imputer_model\model-0013.params"
+2023-02-19 16:02:44,428 [INFO]  Epoch[13] Validation-cross-entropy=0.001967
+2023-02-19 16:02:44,428 [INFO]  Epoch[13] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:03:17,509 [INFO]  Epoch[14] Batch [0-9917]	Speed: 4797.10 samples/sec	cross-entropy=0.006094	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:03:52,564 [INFO]  Epoch[14] Train-cross-entropy=0.005951
+2023-02-19 16:03:52,564 [INFO]  Epoch[14] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:03:52,564 [INFO]  Epoch[14] Time cost=68.135
+2023-02-19 16:03:52,566 [INFO]  Saved checkpoint to "imputer_model\model-0014.params"
+2023-02-19 16:03:56,553 [INFO]  Epoch[14] Validation-cross-entropy=0.003840
+2023-02-19 16:03:56,553 [INFO]  Epoch[14] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:04:30,474 [INFO]  Epoch[15] Batch [0-9917]	Speed: 4678.26 samples/sec	cross-entropy=0.006577	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:05:05,006 [INFO]  Epoch[15] Train-cross-entropy=0.006333
+2023-02-19 16:05:05,006 [INFO]  Epoch[15] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:05:05,006 [INFO]  Epoch[15] Time cost=68.453
+2023-02-19 16:05:05,007 [INFO]  Saved checkpoint to "imputer_model\model-0015.params"
+2023-02-19 16:05:08,926 [INFO]  Epoch[15] Validation-cross-entropy=0.004049
+2023-02-19 16:05:08,927 [INFO]  Epoch[15] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:05:43,888 [INFO]  Epoch[16] Batch [0-9917]	Speed: 4538.99 samples/sec	cross-entropy=0.006258	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:06:17,794 [INFO]  Epoch[16] Train-cross-entropy=0.006146
+2023-02-19 16:06:17,794 [INFO]  Epoch[16] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:06:17,794 [INFO]  Epoch[16] Time cost=68.867
+2023-02-19 16:06:17,797 [INFO]  Saved checkpoint to "imputer_model\model-0016.params"
+2023-02-19 16:06:21,780 [INFO]  Epoch[16] Validation-cross-entropy=0.000869
+2023-02-19 16:06:21,780 [INFO]  Epoch[16] Validation-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:06:56,089 [INFO]  Epoch[17] Batch [0-9917]	Speed: 4625.42 samples/sec	cross-entropy=0.006805	nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:07:29,257 [INFO]  Epoch[17] Train-cross-entropy=0.006323
+2023-02-19 16:07:29,259 [INFO]  Epoch[17] Train-nmme-tmp2m-34w__ccsm3-accuracy=0.000000
+2023-02-19 16:07:29,259 [INFO]  Epoch[17] Time cost=67.479
+2023-02-19 16:07:29,261 [INFO]  Saved checkpoint to "imputer_model\model-0017.params"
+2023-02-19 16:07:33,356 [INFO]  No improvement detected for 5 epochs compared to 0.0007216500818055206 last error obtained: 0.006605078063272667, stopping here
+2023-02-19 16:07:33,356 [INFO]  
+========== done (1189.766832113266 s) fit model
+2023-02-19 16:08:08,223 [INFO]  
+========== start: fit model
+2023-02-19 16:08:08,223 [WARNING]  Already bound, ignoring bind()
+2023-02-19 16:08:42,905 [INFO]  Epoch[0] Batch [0-9917]	Speed: 4576.18 samples/sec	cross-entropy=0.110109	ccsm30-accuracy=0.000000
+2023-02-19 16:09:17,365 [INFO]  Epoch[0] Train-cross-entropy=0.074427
+2023-02-19 16:09:17,365 [INFO]  Epoch[0] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:09:17,365 [INFO]  Epoch[0] Time cost=69.139
+2023-02-19 16:09:17,367 [INFO]  Saved checkpoint to "imputer_model\model-0000.params"
+2023-02-19 16:09:21,287 [INFO]  Epoch[0] Validation-cross-entropy=0.034345
+2023-02-19 16:09:21,287 [INFO]  Epoch[0] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:09:55,255 [INFO]  Epoch[1] Batch [0-9917]	Speed: 4671.87 samples/sec	cross-entropy=0.026275	ccsm30-accuracy=0.000000
+2023-02-19 16:10:27,839 [INFO]  Epoch[1] Train-cross-entropy=0.022128
+2023-02-19 16:10:27,839 [INFO]  Epoch[1] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:10:27,839 [INFO]  Epoch[1] Time cost=66.552
+2023-02-19 16:10:27,841 [INFO]  Saved checkpoint to "imputer_model\model-0001.params"
+2023-02-19 16:10:32,115 [INFO]  Epoch[1] Validation-cross-entropy=0.009459
+2023-02-19 16:10:32,116 [INFO]  Epoch[1] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:11:07,158 [INFO]  Epoch[2] Batch [0-9917]	Speed: 4528.53 samples/sec	cross-entropy=0.013880	ccsm30-accuracy=0.000000
+2023-02-19 16:11:41,582 [INFO]  Epoch[2] Train-cross-entropy=0.012175
+2023-02-19 16:11:41,582 [INFO]  Epoch[2] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:11:41,582 [INFO]  Epoch[2] Time cost=69.466
+2023-02-19 16:11:41,584 [INFO]  Saved checkpoint to "imputer_model\model-0002.params"
+2023-02-19 16:11:45,715 [INFO]  Epoch[2] Validation-cross-entropy=0.006629
+2023-02-19 16:11:45,715 [INFO]  Epoch[2] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:12:21,350 [INFO]  Epoch[3] Batch [0-9917]	Speed: 4453.05 samples/sec	cross-entropy=0.010770	ccsm30-accuracy=0.000000
+2023-02-19 16:12:55,961 [INFO]  Epoch[3] Train-cross-entropy=0.009757
+2023-02-19 16:12:55,961 [INFO]  Epoch[3] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:12:55,961 [INFO]  Epoch[3] Time cost=70.247
+2023-02-19 16:12:55,964 [INFO]  Saved checkpoint to "imputer_model\model-0003.params"
+2023-02-19 16:13:00,505 [INFO]  Epoch[3] Validation-cross-entropy=0.002044
+2023-02-19 16:13:00,505 [INFO]  Epoch[3] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:13:35,360 [INFO]  Epoch[4] Batch [0-9917]	Speed: 4553.11 samples/sec	cross-entropy=0.008260	ccsm30-accuracy=0.000000
+2023-02-19 16:14:10,081 [INFO]  Epoch[4] Train-cross-entropy=0.008078
+2023-02-19 16:14:10,081 [INFO]  Epoch[4] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:14:10,081 [INFO]  Epoch[4] Time cost=69.576
+2023-02-19 16:14:10,083 [INFO]  Saved checkpoint to "imputer_model\model-0004.params"
+2023-02-19 16:14:14,043 [INFO]  Epoch[4] Validation-cross-entropy=0.002747
+2023-02-19 16:14:14,043 [INFO]  Epoch[4] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:14:48,687 [INFO]  Epoch[5] Batch [0-9917]	Speed: 4580.57 samples/sec	cross-entropy=0.007675	ccsm30-accuracy=0.000000
+2023-02-19 16:15:23,178 [INFO]  Epoch[5] Train-cross-entropy=0.007377
+2023-02-19 16:15:23,179 [INFO]  Epoch[5] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:15:23,179 [INFO]  Epoch[5] Time cost=69.137
+2023-02-19 16:15:23,182 [INFO]  Saved checkpoint to "imputer_model\model-0005.params"
+2023-02-19 16:15:27,772 [INFO]  Epoch[5] Validation-cross-entropy=0.002183
+2023-02-19 16:15:27,773 [INFO]  Epoch[5] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:16:03,357 [INFO]  Epoch[6] Batch [0-9917]	Speed: 4459.63 samples/sec	cross-entropy=0.007377	ccsm30-accuracy=0.000000
+2023-02-19 16:16:35,641 [INFO]  Epoch[6] Train-cross-entropy=0.007011
+2023-02-19 16:16:35,641 [INFO]  Epoch[6] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:16:35,641 [INFO]  Epoch[6] Time cost=67.867
+2023-02-19 16:16:35,643 [INFO]  Saved checkpoint to "imputer_model\model-0006.params"
+2023-02-19 16:16:39,427 [INFO]  Epoch[6] Validation-cross-entropy=0.000592
+2023-02-19 16:16:39,427 [INFO]  Epoch[6] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:17:09,408 [INFO]  Epoch[7] Batch [0-9917]	Speed: 5292.96 samples/sec	cross-entropy=0.007110	ccsm30-accuracy=0.000000
+2023-02-19 16:17:38,548 [INFO]  Epoch[7] Train-cross-entropy=0.007015
+2023-02-19 16:17:38,550 [INFO]  Epoch[7] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:17:38,550 [INFO]  Epoch[7] Time cost=59.123
+2023-02-19 16:17:38,552 [INFO]  Saved checkpoint to "imputer_model\model-0007.params"
+2023-02-19 16:17:42,070 [INFO]  Epoch[7] Validation-cross-entropy=0.000869
+2023-02-19 16:17:42,070 [INFO]  Epoch[7] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:18:17,016 [INFO]  Epoch[8] Batch [0-9917]	Speed: 4540.94 samples/sec	cross-entropy=0.006314	ccsm30-accuracy=0.000000
+2023-02-19 16:19:01,540 [INFO]  Epoch[8] Train-cross-entropy=0.006252
+2023-02-19 16:19:01,540 [INFO]  Epoch[8] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:19:01,540 [INFO]  Epoch[8] Time cost=79.470
+2023-02-19 16:19:01,543 [INFO]  Saved checkpoint to "imputer_model\model-0008.params"
+2023-02-19 16:19:08,281 [INFO]  Epoch[8] Validation-cross-entropy=0.001253
+2023-02-19 16:19:08,281 [INFO]  Epoch[8] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:19:56,182 [INFO]  Epoch[9] Batch [0-9917]	Speed: 3312.87 samples/sec	cross-entropy=0.006940	ccsm30-accuracy=0.000000
+2023-02-19 16:20:38,308 [INFO]  Epoch[9] Train-cross-entropy=0.006528
+2023-02-19 16:20:38,308 [INFO]  Epoch[9] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:20:38,308 [INFO]  Epoch[9] Time cost=90.027
+2023-02-19 16:20:38,310 [INFO]  Saved checkpoint to "imputer_model\model-0009.params"
+2023-02-19 16:20:43,423 [INFO]  Epoch[9] Validation-cross-entropy=0.003496
+2023-02-19 16:20:43,424 [INFO]  Epoch[9] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:21:26,853 [INFO]  Epoch[10] Batch [0-9917]	Speed: 3653.89 samples/sec	cross-entropy=0.006761	ccsm30-accuracy=0.000000
+2023-02-19 16:22:17,144 [INFO]  Epoch[10] Train-cross-entropy=0.006335
+2023-02-19 16:22:17,144 [INFO]  Epoch[10] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:22:17,145 [INFO]  Epoch[10] Time cost=93.721
+2023-02-19 16:22:17,148 [INFO]  Saved checkpoint to "imputer_model\model-0010.params"
+2023-02-19 16:22:23,177 [INFO]  Epoch[10] Validation-cross-entropy=0.007385
+2023-02-19 16:22:23,177 [INFO]  Epoch[10] Validation-ccsm30-accuracy=0.000000
+2023-02-19 16:23:11,469 [INFO]  Epoch[11] Batch [0-9917]	Speed: 3286.03 samples/sec	cross-entropy=0.006218	ccsm30-accuracy=0.000000
+2023-02-19 16:23:59,537 [INFO]  Epoch[11] Train-cross-entropy=0.005941
+2023-02-19 16:23:59,537 [INFO]  Epoch[11] Train-ccsm30-accuracy=0.000000
+2023-02-19 16:23:59,537 [INFO]  Epoch[11] Time cost=96.360
+2023-02-19 16:23:59,543 [INFO]  Saved checkpoint to "imputer_model\model-0011.params"
+2023-02-19 16:24:05,412 [INFO]  No improvement detected for 5 epochs compared to 0.0005920384711810265 last error obtained: 0.0016262848552676872, stopping here
+2023-02-19 16:24:05,412 [INFO]  
+========== done (957.1889841556549 s) fit model
