@@ -11,5 +11,5 @@ This year’s datathon, organized by the WiDS Worldwide team at Stanford Univers
 
 The dataset was created in collaboration with Climate Change AI (CCAI). Participants will submit forecasts of temperature and precipitation for one year, competing against the other teams as well as official forecasts from NOAA.
 
-This was my first experience with Kaggle competitions, and I have experimented with data visualisation tools, variety of machine learning methods and libraries (XGBoost, LGBM, SVR, mxnet), and learnt a lot from creative solutions of other teams.
+This was my first experience with Kaggle competitions, and I have experimented with data visualisation tools, variety of machine learning methods and libraries (XGBoost, LGBM, SVR, mxnet), and learnt a lot from the creative solutions of other teams.
 Our team consisted of me and Asst. Prof. Ulya Bayram. We have placed 257th out of 697 teams.
